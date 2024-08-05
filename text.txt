@@ -1,0 +1,5 @@
+init - создает репозиторий
+status - проверяет его статус
+    Untracked files - неотслеживаемый
+    Changes to be committed - файл в индексе
+    Changes not staged for commit - файл в индексе, но какие-то изменения не в индексе
